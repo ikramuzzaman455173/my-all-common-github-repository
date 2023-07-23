@@ -143,6 +143,7 @@
 | 37 | Simple Common Errors In React 😀                | [GitHub](https://github.com/jakaria455173/React-common-errors)                           | public  |
 | 44 | Advanced search google Shortcut 😀              | [GitHub](https://github.com/jakaria455173/advanced-google-search-shortcut)               | public  |
 | 45 | Common Github Keyboard Shortcut :)              | [GitHub](https://github.com/jakaria455173/common-github-keyboard--shortcut)              | public  |
+| 46 | All Api Project Pactise Javascript:)            | [GitHub](https://github.com/jakaria455173/all-api-pactise-project-javascript)            | public  |
 | 47 | Simple LIst Of Free Apis 😀                     | [GitHub](https://github.com/jakaria455173/all-free-api-iist)                             | public  |
 | 48 | Best Resources For Only Javascript Learners 🐱‍👤 | [GitHub](https://github.com/jakaria455173/Most-usefull-resources-for-begginer-js-learners) | public  |
 | 49 | Shopping With Js Dom:)                         | [GitHub](https://github.com/jakaria455173/shooping-with-js-dom)                          | public  |
@@ -173,7 +174,6 @@
 | 32 | React Router Dom Use And Install Very Eassyli 😃 | [GitHub](https://github.com/jakaria455173/how-to-use-react-router-dom-very-eassy-doc)   | private |
 | 34 | Simple And Code Structures Text Etc😀            | [GitHub](https://github.com/jakaria455173/simple-structure-code-file-text-etc)           | private |
 | 39 | Javascript Common Concept Of React 😀           | [GitHub](https://github.com/jakaria455173/concept-of-react)                              | private |
-| 46 | All Api Project Pactise Javascript:)            | [GitHub](https://github.com/jakaria455173/all-api-pactise-project-javascript)            | public  |
 
 
 
