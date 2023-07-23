@@ -80,6 +80,15 @@
 
 40.[Top Most Usefull Git Commands 👩‍💻](https://github.com/jakaria455173/Master-the-most-important-Git-commands-that-every-developer-should-know) public
 
+41.[Javascript My Own Awesome Cheatsheet 🐱‍👤](https://github.com/jakaria455173/javascript-my-own-awesome-eassy-cheasheet) public
+
+42.[Javascript Try It Solve The All Bugs 😀](https://github.com/jakaria455173/Javascript-Try-It-Solve-The-All-Bugs) public
+
+43.[All Error Js Bug Fixed 😐](https://github.com/jakaria455173/All-Error-Js-Projects-Bug-Fixed) public
+
+44.[Advanced search google Shortcut 😀](https://github.com/jakaria455173/advanced-google-search-shortcut) public
+
+45.[Common Github Keyboard Shortcut :)](https://github.com/jakaria455173/common-github-keyboard--shortcut) public
 
 
 
