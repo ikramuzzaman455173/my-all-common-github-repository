@@ -100,8 +100,17 @@
 
 50.[Shopping Cart Calculate Cart System In Javascript:)](https://github.com/jakaria455173/shopping-cart-calculate-system-javascript) public
 
+51.[Banking System In Javascript:)](https://github.com/jakaria455173/banking-system-in-javascript) public
 
+52.[Pactise Dom Very Eassyli:)](https://github.com/jakaria455173/pactise-js-dom-very-eassly) public
 
+53.[Design Resources For Developers:)](https://github.com/jakaria455173/design-resources-for-developers) public
+
+54.[Simple & Awesome Webpage Create Bootstarp5 😀](https://github.com/jakaria455173/simple-and-awesome-webpage-create-bootstarp5) public
+
+55.[খুব সহজে শিখবো ও জানবো সিএসস ফ্লেক্স বক্স সম্পর্কে 😀](https://github.com/jakaria455173/eassy-to-learn-flex-box-bangla-language) public
+
+56.[Git Commands:)](https://github.com/jakaria455173/Git-Commands) public
 
 
 
