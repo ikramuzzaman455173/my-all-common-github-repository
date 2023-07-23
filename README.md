@@ -1,6 +1,7 @@
  <h1 align="center">Best For My Github Repository 😀</h1>
  
 <!--
+
 1.[Best For Javascript And All In One Interview:)](https://github.com/jakaria455173/best-for-javascript-interview) public
 
 2.[Javascript Common Problem Solving Github Jakaria Repository:)](https://github.com/jakaria455173/best-for-javascript-interview) private
@@ -113,7 +114,7 @@
 
 56.[Git Commands:)](https://github.com/jakaria455173/Git-Commands) public
 
--- >
+-->
 
 
 **Jakaria All Common Public Repository:**
@@ -157,9 +158,7 @@
 **Jakaria All Common Private Repository:**
 
 | SL | Name                                              | Link                                                                                     | Type    |
-|----|---------------------------------------------------
-
-|------------------------------------------------------------------------------------------|---------|
+|----|---------------------------------------------------|------------------------------------------------------------------------------------------|---------|
 | 2  | Javascript Common Problem Solving Github Jakaria Repository:) | [GitHub](https://github.com/jakaria455173/best-for-javascript-interview)        | private |
 | 6  | All Apply Job Noted:)                           | [GitHub](https://github.com/jakaria455173/developer-apply-job-noted)                   | private |
 | 8  | Personal Portfolio Jakaria:)                    | [GitHub](https://github.com/jakaria455173/personal-portfolio-jakaria)                  | private |
