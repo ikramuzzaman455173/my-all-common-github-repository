@@ -60,6 +60,26 @@
 
 30.[Pactise Firebase Email Password Auth:)](https://github.com/jakaria455173/pactise-firebase-password-email-auth) public
 
+31.[Simple Firebase:)](https://github.com/jakaria455173/simple-firebase) public
+
+32.[React Router Dom Use And Install Very Eassyli 😃](https://github.com/jakaria455173/how-to-use-react-router-dom-very-eassy-doc) private
+
+33.[Bash Command Cheatsheet:)](https://github.com/jakaria455173/git-bash-command-list) public
+
+34.[Simple And Code Structures Text Etc😀](https://github.com/jakaria455173/simple-structure-code-file-text-etc) private
+
+35.[Simple Javascript Tips & Tricks 😀](https://github.com/jakaria455173/javascript-tricks-tips) public
+
+36.[How To Use My Any Project Code:)](https://github.com/jakaria455173/My-All-Simple-React-Project) private
+
+37.[Simple Common Errors In React 😀](https://github.com/jakaria455173/React-common-errors) public
+
+38.[Github Repo:)](https://github.com/jakaria455173/github-repo) private
+
+39.[Javascript Common Concept Of React 😀](https://github.com/jakaria455173/concept-of-react) private
+
+40.[Top Most Usefull Git Commands 👩‍💻](https://github.com/jakaria455173/Master-the-most-important-Git-commands-that-every-developer-should-know) public
+
 
 
 
