@@ -90,7 +90,15 @@
 
 45.[Common Github Keyboard Shortcut :)](https://github.com/jakaria455173/common-github-keyboard--shortcut) public
 
+46.[All Api Project Pactise Javascript:)](https://github.com/jakaria455173/all-api-pactise-project-javascript) public
 
+47.[Simple LIst Of Free Apis 😀](https://github.com/jakaria455173/all-free-api-iist) public
+
+48.[Best Resources For Only Javascript Learners 🐱‍👤](https://github.com/jakaria455173/Most-usefull-resources-for-begginer-js-learners) public
+
+49.[Shopping With Js Dom:)](https://github.com/jakaria455173/shooping-with-js-dom) public
+
+50.[Shopping Cart Calculate Cart System In Javascript:)](https://github.com/jakaria455173/shopping-cart-calculate-system-javascript) public
 
 
 
