@@ -163,9 +163,18 @@
 | 63 | Vercel Netlify Alternative All Site:)   | [GitHub](https://github.com/ikramuzzaman455173/vercel-netlify-alternative-sites)   | public  |
 | 64 | CareerBridge - MERN Project:)   | [GitHub](https://github.com/ikramuzzaman455173/CareerBridge)   | public  |
 | 65 | Prixima web project:)   | [GitHub](https://github.com/ikramuzzaman455173/prixima)   | public  |
+| 66 | Industrial All Exam Question Solved:)   | [GitHub](https://github.com/ikramuzzaman455173/Industrial-Tranining-AllExam-Question-Solved)   | public  |
+| 56 | My Project Structure File Github:)   | [GitHub](https://github.com/ikramuzzaman455173/Project-structure-file-react-and-any-others)   | public  |
+| 56 | Simple & Eassy Notes Solved Some Common Git Error:)   | [GitHub](https://github.com/ikramuzzaman455173/some-common-error-solve-git)   | public  |
+<!--
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
+| 56 | :)   | [GitHub]()   | public  |
+| 56 | :)   | [GitHub]()   | public  |
+| 56 | :)   | [GitHub]()   | public  |
+
+-->
 
 **Jakaria All Common Private Repository:**
 
@@ -188,11 +197,10 @@
 | 40 | All Applying Job Noted 😅           | [GitHub](https://github.com/ikramuzzaman455173/developer-apply-job-noted) | private |
 | 41 | Git and GitHub Command Cheatsheet 😀   | [GitHub](https://github.com/ikramuzzaman455173/git-master-cheatsheet) | private |
 | 42 | ShopNest Project 😀   | [GitHub](https://github.com/ikramuzzaman455173/shopNest) | private |
-| 43 | SAIC-Industrial-Training-2023 😀   | [GitHub](https://github.com/ikramuzzaman455173/SAIC-Industrial-Training-2023) | private |
 | 44 | Movix - ReactJS, Redux, and TMDB API Integration 😀   | [GitHub](https://github.com/ikramuzzaman455173/moviex) | private |
-| 41 | Root cloudex bussiness site 😀   | [GitHub](https://github.com/ikramuzzaman455173/root-cloudex-bussiness-site) | private |
-| 41 | Prixima web project 😀   | [GitHub]() | private |
+| 45 | Root cloudex bussiness site 😀   | [GitHub](https://github.com/ikramuzzaman455173/root-cloudex-bussiness-site) | private |
+| 46 | Important for css common tips and tricks 😀   | [GitHub](https://github.com/ikramuzzaman455173/css-comon-tips-and-tricks) | private |
+<!--
 | 41 |  😀   | [GitHub]() | private |
 | 41 |  😀   | [GitHub]() | private |
-| 41 |  😀   | [GitHub]() | private |
-
+-->
