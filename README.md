@@ -153,11 +153,19 @@
 | 53 | Design Resources For Developers:):)            | [GitHub](https://github.com/jakaria455173/design-resources-for-developers)              | public  |
 | 54 | Simple & Awesome Webpage Create Bootstarp5 😀   | [GitHub](https://github.com/jakaria455173/simple-and-awesome-webpage-create-bootstarp5)  | public  |
 | 55 | খুব সহজে শিখবো ও জানবো সিএসস ফ্লেক্স বক্স সম্পর্কে 😀 | [GitHub](https://github.com/jakaria455173/eassy-to-learn-flex-box-bangla-language)    | public  |
-| 56 | Git Commands:)                                 | [GitHub](https://github.com/jakaria455173/Git-Commands)                                 | public  |
-| 57 | Web Developers Figma Resources:)                                 | [GitHub](https://github.com/ikramuzzaman455173/Web-Developers-Figma-Resources)                                 | public  |
-| 58 | Ph hero job task server and client repo:)                                 | [GitHub](https://github.com/ikramuzzaman455173/ph-hero-job-task-server-and-client-repo)                                 | public  |
-| 59 | Job Task - MERN Stack Web Application Development:)                                 | [GitHub](https://github.com/ikramuzzaman455173/collage-task-pactise)                                 | public  |
-| 60 | Solve Final Task SCPC Interesting Problem Solving In Javascript:):)                                 | [GitHub](https://github.com/ikramuzzaman455173/scpc-final-task-javascript-inteesting-problem-solving)                                 | public  |
+| 56 | Git Commands:)   | [GitHub](https://github.com/jakaria455173/Git-Commands)   | public  |
+| 57 | Web Developers Figma Resources:)  | [GitHub](https://github.com/ikramuzzaman455173/Web-Developers-Figma-Resources)                                 | public  |
+| 58 | Ph hero job task server and client repo:)  | [GitHub](https://github.com/ikramuzzaman455173/ph-hero-job-task-server-and-client-repo)  | public  |
+| 59 | Job Task - MERN Stack Web Application Development:)| [GitHub](https://github.com/ikramuzzaman455173/collage-task-pactise)  | public  |
+| 60 | Solve Final Task SCPC Interesting Problem Solving In Javascript:):) | [GitHub](https://github.com/ikramuzzaman455173/scpc-final-task-javascript-inteesting-problem-solving)  | public  |
+| 61 | Firebase or any other production react image now show related problem fixed:)| [GitHub](https://github.com/ikramuzzaman455173/firebase-or-any-other-production-react-image-not-show-related-problem-fixed/tree/main)  | public  |
+| 62 | Advanced api fetched project on react:)   | [GitHub](https://github.com/ikramuzzaman455173/advanced-api-fetch)   | public  |
+| 63 | Vercel Netlify Alternative All Site:)   | [GitHub](https://github.com/ikramuzzaman455173/vercel-netlify-alternative-sites)   | public  |
+| 64 | CareerBridge - MERN Project:)   | [GitHub](https://github.com/ikramuzzaman455173/CareerBridge)   | public  |
+| 65 | Prixima web project:)   | [GitHub](https://github.com/ikramuzzaman455173/prixima)   | public  |
+| 56 | :)   | [GitHub]()   | public  |
+| 56 | :)   | [GitHub]()   | public  |
+| 56 | :)   | [GitHub]()   | public  |
 
 **Jakaria All Common Private Repository:**
 
@@ -176,7 +184,15 @@
 | 28 | Important Think For Git And Githubs 😀          | [GitHub](https://github.com/jakaria455173/Important-for-git-and-github)                 | private |
 | 32 | React Router Dom Use And Install Very Eassyli 😃 | [GitHub](https://github.com/jakaria455173/how-to-use-react-router-dom-very-eassy-doc)   | private |
 | 34 | Simple And Code Structures Text Etc😀            | [GitHub](https://github.com/jakaria455173/simple-structure-code-file-text-etc)           | private |
-| 39 | Javascript Common Concept Of React 😀           | [GitHub](https://github.com/jakaria455173/concept-of-react)                              | private |
-| 40 | All Applying Job Noted 😅           | [GitHub](https://github.com/ikramuzzaman455173/developer-apply-job-noted)                              | private |
-
+| 39 | Javascript Common Concept Of React 😀           | [GitHub](https://github.com/jakaria455173/concept-of-react)  | private |
+| 40 | All Applying Job Noted 😅           | [GitHub](https://github.com/ikramuzzaman455173/developer-apply-job-noted) | private |
+| 41 | Git and GitHub Command Cheatsheet 😀   | [GitHub](https://github.com/ikramuzzaman455173/git-master-cheatsheet) | private |
+| 42 | ShopNest Project 😀   | [GitHub](https://github.com/ikramuzzaman455173/shopNest) | private |
+| 43 | SAIC-Industrial-Training-2023 😀   | [GitHub](https://github.com/ikramuzzaman455173/SAIC-Industrial-Training-2023) | private |
+| 44 | Movix - ReactJS, Redux, and TMDB API Integration 😀   | [GitHub](https://github.com/ikramuzzaman455173/moviex) | private |
+| 41 | Root cloudex bussiness site 😀   | [GitHub](https://github.com/ikramuzzaman455173/root-cloudex-bussiness-site) | private |
+| 41 | Prixima web project 😀   | [GitHub]() | private |
+| 41 |  😀   | [GitHub]() | private |
+| 41 |  😀   | [GitHub]() | private |
+| 41 |  😀   | [GitHub]() | private |
 
