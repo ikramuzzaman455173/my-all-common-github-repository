@@ -154,7 +154,10 @@
 | 54 | Simple & Awesome Webpage Create Bootstarp5 😀   | [GitHub](https://github.com/jakaria455173/simple-and-awesome-webpage-create-bootstarp5)  | public  |
 | 55 | খুব সহজে শিখবো ও জানবো সিএসস ফ্লেক্স বক্স সম্পর্কে 😀 | [GitHub](https://github.com/jakaria455173/eassy-to-learn-flex-box-bangla-language)    | public  |
 | 56 | Git Commands:)                                 | [GitHub](https://github.com/jakaria455173/Git-Commands)                                 | public  |
-
+| 57 | Web Developers Figma Resources:)                                 | [GitHub](https://github.com/ikramuzzaman455173/Web-Developers-Figma-Resources)                                 | public  |
+| 58 | Ph hero job task server and client repo:)                                 | [GitHub](https://github.com/ikramuzzaman455173/ph-hero-job-task-server-and-client-repo)                                 | public  |
+| 59 | Job Task - MERN Stack Web Application Development:)                                 | [GitHub](https://github.com/ikramuzzaman455173/collage-task-pactise)                                 | public  |
+| 60 | Solve Final Task SCPC Interesting Problem Solving In Javascript:):)                                 | [GitHub](https://github.com/ikramuzzaman455173/scpc-final-task-javascript-inteesting-problem-solving)                                 | public  |
 
 **Jakaria All Common Private Repository:**
 
@@ -174,6 +177,6 @@
 | 32 | React Router Dom Use And Install Very Eassyli 😃 | [GitHub](https://github.com/jakaria455173/how-to-use-react-router-dom-very-eassy-doc)   | private |
 | 34 | Simple And Code Structures Text Etc😀            | [GitHub](https://github.com/jakaria455173/simple-structure-code-file-text-etc)           | private |
 | 39 | Javascript Common Concept Of React 😀           | [GitHub](https://github.com/jakaria455173/concept-of-react)                              | private |
-
+| 40 | All Applying Job Noted 😅           | [GitHub](https://github.com/ikramuzzaman455173/developer-apply-job-noted)                              | private |
 
 
