@@ -166,8 +166,9 @@
 | 66 | Industrial All Exam Question Solved:)   | [GitHub](https://github.com/ikramuzzaman455173/Industrial-Tranining-AllExam-Question-Solved)   | public  |
 | 67 | My Project Structure File Github:)   | [GitHub](https://github.com/ikramuzzaman455173/Project-structure-file-react-and-any-others)   | public  |
 | 68 | Simple & Eassy Notes Solved Some Common Git Error:)   | [GitHub](https://github.com/ikramuzzaman455173/some-common-error-solve-git)   | public  |
+| 56 | My All Html Css Js Project Showcase :)   | [GitHub](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project)   | public  |
+
 <!--
-| 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
@@ -200,7 +201,8 @@
 | 44 | Movix - ReactJS, Redux, and TMDB API Integration 😀   | [GitHub](https://github.com/ikramuzzaman455173/moviex) | private |
 | 45 | Root cloudex bussiness site 😀   | [GitHub](https://github.com/ikramuzzaman455173/root-cloudex-bussiness-site) | private |
 | 46 | Important for css common tips and tricks 😀   | [GitHub](https://github.com/ikramuzzaman455173/css-comon-tips-and-tricks) | private |
+| 47 | Javascript Batter Problem Solving 😀   | [GitHub](https://github.com/ikramuzzaman455173/Javascript-batter-problem-solving) | private |
+
 <!--
-| 47 |  😀   | [GitHub]() | private |
 | 48 |  😀   | [GitHub]() | private |
 -->
