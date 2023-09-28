@@ -117,7 +117,7 @@
 -->
 
 
-**Jakaria All Common Public Repository:**
+**Ikramuzzaman All Common Public Repository:**
 
 | SL | Name                                              | Link                                                                                     | Type    |
 |----|---------------------------------------------------|------------------------------------------------------------------------------------------|---------|
@@ -167,9 +167,9 @@
 | 67 | My Project Structure File Github:)   | [GitHub](https://github.com/ikramuzzaman455173/Project-structure-file-react-and-any-others)   | public  |
 | 68 | Simple & Eassy Notes Solved Some Common Git Error:)   | [GitHub](https://github.com/ikramuzzaman455173/some-common-error-solve-git)   | public  |
 | 56 | My All Html Css Js Project Showcase :)   | [GitHub](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project)   | public  |
+| 57 |Helpful-Tech-Resources:)   | [GitHub](https://github.com/ikramuzzaman455173/Helpful-Tech-Resources)   | public  |
 
 <!--
-| 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
@@ -177,7 +177,7 @@
 
 -->
 
-**Jakaria All Common Private Repository:**
+**Ikramuzzaman All Common Private Repository:**
 
 | SL | Name                                              | Link                                                                                     | Type    |
 |----|---------------------------------------------------|------------------------------------------------------------------------------------------|---------|
