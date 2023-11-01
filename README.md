@@ -5,7 +5,7 @@
  
 <!-- <p align="center"> <b></b></p> -->
 
-> 😃📚🌟 Check out my useful open GitHub repositories. Find valuable resources that can help you. Thank you for your interest! 👨‍💻🚀👍🏼
+> 😊 Check out my useful open GitHub repositories. Find valuable resources that can help you. Thank you for your interest! 👨‍💻
 
 ### Ikramuzzaman All Common Public Repository :)
 
@@ -71,7 +71,14 @@
 
 -->
 
-**Ikramuzzaman All Common Private Repository:**
+
+
+
+> Assalamu Allaikum ☺ "In this table, you can access my private, work-focused GitHub repositories that are essential for my use. If you wish to view any of these private repositories, please contact me via email or Facebook to explain your interest. Once everything is in order, I'll grant you access. Thank you! 📁🔒👨‍💻"
+
+
+
+### Ikramuzzaman All Common Private Repository:)
 
 | SL | Name                                              | Link                                                                                     | Type    |
 |----|---------------------------------------------------|------------------------------------------------------------------------------------------|---------|
