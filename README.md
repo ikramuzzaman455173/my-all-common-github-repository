@@ -63,8 +63,8 @@
 | 50 | Disable Automatic Windows Update Reboots :)   | [GitHub](https://github.com/ikramuzzaman455173/how-to-stop-pc-auto-restart-windows)   | public  |
 | 51 | House Hunter Client And Server Github Repository Link 😃 :)   | [GitHub](https://github.com/ikramuzzaman455173/House-Hunter-client-and-server-repo)   | public  |
 | 52 | Ikramuzzaman personal github resume :) | [GitHub](https://github.com/ikramuzzaman455173/Ikramuzzaman-personal-github-resume)   | public  |
-<!--| 53 | :)   | [GitHub]()   | public  |
-| 54 | :)   | [GitHub]()   | public  |
+| 53 | Basic Cmd Command Cheatsheet's 👨‍💻  | [GitHub](https://github.com/ikramuzzaman455173/basic-cmd-cheatsheets)   | public  |
+<!--| 54 | :)   | [GitHub]()   | public  |
 | 55 | :)   | [GitHub]()   | public  |
 | 56 | :)   | [GitHub]()   | public  |
 | 57 | :)   | [GitHub]()   | public  |
